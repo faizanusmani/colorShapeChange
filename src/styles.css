@@ -1,0 +1,22 @@
+body {
+  font-family: sans-serif;
+}
+
+#outerdiv {
+  width: 100px;
+  height: 100px;
+  background: red;
+  margin-bottom: 10px;
+}
+
+#innerdiv {
+  position: relative;
+  top: 25%;
+  right: 25%;
+  left: 25%;
+  width: 50px;
+  height: 50px;
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 0%;
+}
